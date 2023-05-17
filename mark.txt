@@ -1,10 +1,15 @@
 Hello
+
+Oh changing the top of the file!
 1
 
 Mark is kinda annoying
 my name is Mark
 
+and the middle!
 
 Adding more mark stuff
 my name is Mark
 Mark is amazing 
+
+and the end!
