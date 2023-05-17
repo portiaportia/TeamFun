@@ -1,6 +1,7 @@
 Hello
 1
 
+<<<<<<< HEAD
 Wizard buisness is called Wizbiz.
 
 Oh changing the top of the file!
@@ -19,3 +20,6 @@ my name is Mark
 Mark is amazing 
 
 and the end!
+=======
+Wizard buisness is called Wizbiz.
+>>>>>>> 65dbad4256954243fa347396f0b9370342d6e285
