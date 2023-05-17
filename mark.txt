@@ -6,3 +6,5 @@ my name is Mark
 
 
 Adding more mark stuff
+my name is Mark
+Mark is amazing 
