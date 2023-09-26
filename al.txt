@@ -1,8 +1,10 @@
 Al will not do the interview 
 
+<<<<<<< HEAD
+Hi 247!
+=======
 
 
 
 
 Did anyone got 100 in UML ?
->>>>>>> 5dc27568669cde37b58e0c97f08f55ecf9e68159
